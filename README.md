@@ -49,6 +49,8 @@ OK
 
 Matheus Gabriel da Silva, Larissa Hoffmann, Lukas Thiago Rodrigues e Mateus Akira.
 
+[Slides de Apresentação](https://www.canva.com/design/DAGopagntAg/awSZETPIMsTk8G_6Filoow/edit?utm_content=DAGopagntAg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 [Google Colab](https://colab.research.google.com/drive/1YycuUVIe_HPWZxiZpjDruT_yh4O0bj_r#scrollTo=D8CUaSx0V2bU)
 
 [Repositório Original](https://github.com/EuMesmoMatheus/Formiguinha)
